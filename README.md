@@ -8,5 +8,5 @@
 [AT129](https://akizukidenshi.com/catalog/g/gP-14522/)  
 [RKC8BD473J](https://akizukidenshi.com/catalog/g/gR-13726/)  
 [LME49740NA](https://akizukidenshi.com/catalog/g/gI-03685/)  
-[MAU108](https://akizukidenshi.com/catalog/g/gM-04134/)  
+[MAU108 １Ｗ級絶縁型ＤＣ－ＤＣコンバーター（±１２Ｖ４２ｍＡ）](https://akizukidenshi.com/catalog/g/gM-04134/)  
 [NJM7805FA](https://akizukidenshi.com/catalog/g/gI-08678/)  
